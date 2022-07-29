@@ -1,0 +1,22 @@
+{"type": "module",
+  "name": "sprint_node_express",
+  "version": "1.0.0",
+  "description": "mini projeto 1 - modulo 4",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsleneCerqueira/Sprint_node_express.git"
+  },
+  "author": "Oslene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OsleneCerqueira/Sprint_node_express/issues"
+  },
+  "homepage": "https://github.com/OsleneCerqueira/Sprint_node_express#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
