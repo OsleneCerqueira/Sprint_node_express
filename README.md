@@ -15,9 +15,13 @@ uma em cada linha.
 ## Como usar 
  Instale o pacote readline-sync
 
- "npm i readline-sync"
+ ```
+ npm i readline-sync"
+ ```
 
  Rode o comando no console
 
-"npm run start"
+ ```
+ npm run start"
+  ```
 
