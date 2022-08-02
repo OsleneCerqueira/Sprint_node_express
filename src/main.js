@@ -7,7 +7,8 @@ function ajudaDev() {
 
     let propriedade = readlineSync.question('Digite a propriedades de CSS que deseja armazenar: ')
 
-    while (propriedade !== "sair") {
+    while (propriedade.toLocaleUpperCase() !== "SAIR") {
+        
         listaPropriedades.push(propriedade);
 
         propriedade = readlineSync.question('Digite a propriedades de CSS que deseja armazenar: ')
