@@ -12,6 +12,20 @@ a pessoa digitar a palavra “SAIR”, quando isso acontecer vai ser
 impresso no terminal a lista das propriedades ordenadas de A-Z
 uma em cada linha.
 
+
+➔ Exemplo:
+◆ Input:
+font-size
+background-color
+text-align
+border
+SAIR
+◆ Resultado:
+background-color
+border
+font-size
+text-align
+
 ## Como usar 
  Instale o pacote readline-sync
 
