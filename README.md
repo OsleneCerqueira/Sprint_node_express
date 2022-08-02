@@ -14,17 +14,29 @@ uma em cada linha.
 
 
 ➔ Exemplo:
+
 ◆ Input:
+
 font-size
+
 background-color
+
 text-align
+
 border
+
 SAIR
+
 ◆ Resultado:
+
 background-color
+
 border
+
 font-size
+
 text-align
+
 
 ## Como usar 
  Instale o pacote readline-sync
